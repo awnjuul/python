@@ -1,1 +1,1 @@
-# python
+Python Tretiak Laboratorna 3 
