@@ -1,0 +1,107 @@
+Code: af, Language: afrikaans, Translation: Goeie more
+Code: sq, Language: albanian, Translation: Miremengjes
+Code: am, Language: amharic, Translation: ምልካም እድል
+Code: ar, Language: arabic, Translation: صباح الخير
+Code: hy, Language: armenian, Translation: Բարի առավոտ
+Code: az, Language: azerbaijani, Translation: Sabahınız xeyir
+Code: eu, Language: basque, Translation: Egun on
+Code: be, Language: belarusian, Translation: Добрай раніцы
+Code: bn, Language: bengali, Translation: সুপ্রভাত
+Code: bs, Language: bosnian, Translation: Dobro jutro
+Code: bg, Language: bulgarian, Translation: Добро утро
+Code: ca, Language: catalan, Translation: Bon dia
+Code: ceb, Language: cebuano, Translation: Maayong buntag
+Code: ny, Language: chichewa, Translation: M'mawa wabwino
+Code: zh-cn, Language: chinese (simplified), Translation: 早上好
+Code: zh-tw, Language: chinese (traditional), Translation: 早安
+Code: co, Language: corsican, Translation: Bonghjornu
+Code: hr, Language: croatian, Translation: Dobro jutro
+Code: cs, Language: czech, Translation: Dobré ráno
+Code: da, Language: danish, Translation: God morgen
+Code: nl, Language: dutch, Translation: Goedemorgen
+Code: en, Language: english, Translation: Good morning
+Code: eo, Language: esperanto, Translation: Bonan matenon
+Code: et, Language: estonian, Translation: Tere hommikust
+Code: tl, Language: filipino, Translation: Magandang umaga
+Code: fi, Language: finnish, Translation: Hyvää huomenta
+Code: fr, Language: french, Translation: Bonjour
+Code: fy, Language: frisian, Translation: Goedei
+Code: gl, Language: galician, Translation: Bos días
+Code: ka, Language: georgian, Translation: Დილა მშვიდობისა
+Code: de, Language: german, Translation: Guten Morgen
+Code: el, Language: greek, Translation: Καλημέρα
+Code: gu, Language: gujarati, Translation: સુપ્રભાત
+Code: ht, Language: haitian creole, Translation: Bonjou
+Code: ha, Language: hausa, Translation: Ina kwana
+Code: haw, Language: hawaiian, Translation: Aloha kakahiaka
+Code: iw, Language: hebrew, Translation: בוקר טוב
+Code: he, Language: hebrew, Translation: בוקר טוב
+Code: hi, Language: hindi, Translation: शुभ प्रभात
+Code: hmn, Language: hmong, Translation: Nyob zoo sawv ntxov
+Code: hu, Language: hungarian, Translation: Jó reggelt kívánok
+Code: is, Language: icelandic, Translation: Góðan daginn
+Code: ig, Language: igbo, Translation: Ụtụtụ ọma
+Code: id, Language: indonesian, Translation: Selamat pagi
+Code: ga, Language: irish, Translation: Maidin mhaith
+Code: it, Language: italian, Translation: Buongiorno
+Code: ja, Language: japanese, Translation: おはよう
+Code: jw, Language: javanese, Translation: Sugeng enjing
+Code: kn, Language: kannada, Translation: ಶುಭೋದಯ
+Code: kk, Language: kazakh, Translation: Қайырлы таң
+Code: km, Language: khmer, Translation: អរុណ​សួស្តី
+Code: ko, Language: korean, Translation: 좋은 아침이에요
+Code: ku, Language: kurdish (kurmanji), Translation: Beyanî baş
+Code: ky, Language: kyrgyz, Translation: Кайырдуу таң
+Code: lo, Language: lao, Translation: ສະ​ບາຍ​ດີ​ຕອນ​ເຊົ້າ
+Code: la, Language: latin, Translation: Bonum mane
+Code: lv, Language: latvian, Translation: Labrīt
+Code: lt, Language: lithuanian, Translation: Labas rytas
+Code: lb, Language: luxembourgish, Translation: Gudde Moien
+Code: mk, Language: macedonian, Translation: Добро утро
+Code: mg, Language: malagasy, Translation: Salama
+Code: ms, Language: malay, Translation: Selamat Pagi
+Code: ml, Language: malayalam, Translation: സുപ്രഭാതം
+Code: mt, Language: maltese, Translation: Bongu
+Code: mi, Language: maori, Translation: Ata mārie
+Code: mr, Language: marathi, Translation: शुभ प्रभात
+Code: mn, Language: mongolian, Translation: Өглөөний мэнд
+Code: my, Language: myanmar (burmese), Translation: မင်္ဂလာနံနက်ခင်းပါ
+Code: ne, Language: nepali, Translation: शुभ - प्रभात
+Code: no, Language: norwegian, Translation: God morgen
+Code: or, Language: odia, Translation: ଶୁଭ ସକାଳ
+Code: ps, Language: pashto, Translation: سهار مو پخیر
+Code: fa, Language: persian, Translation: صبح بخیر
+Code: pl, Language: polish, Translation: Dzień dobry
+Code: pt, Language: portuguese, Translation: Bom dia
+Code: pa, Language: punjabi, Translation: ਸ਼ੁਭ ਸਵੇਰ
+Code: ro, Language: romanian, Translation: Buna dimineata
+Code: ru, Language: russian, Translation: Доброе утро
+Code: sm, Language: samoan, Translation: Manuia le taeao
+Code: gd, Language: scots gaelic, Translation: Madainn mhath
+Code: sr, Language: serbian, Translation: Добро јутро
+Code: st, Language: sesotho, Translation: Khotsong
+Code: sn, Language: shona, Translation: Mangwanani akanaka
+Code: sd, Language: sindhi, Translation: صبح جو سلام
+Code: si, Language: sinhala, Translation: සුභ උදෑසනක්
+Code: sk, Language: slovak, Translation: Dobré ráno
+Code: sl, Language: slovenian, Translation: Dobro jutro
+Code: so, Language: somali, Translation: Subax wanaagsan
+Code: es, Language: spanish, Translation: Buen día
+Code: su, Language: sundanese, Translation: Wilujeng énjing
+Code: sw, Language: swahili, Translation: Habari za asubuhi
+Code: sv, Language: swedish, Translation: God morgon
+Code: tg, Language: tajik, Translation: Субҳ ба хайр
+Code: ta, Language: tamil, Translation: காலை வணக்கம்
+Code: te, Language: telugu, Translation: శుభోదయం
+Code: th, Language: thai, Translation: สวัสดีตอนเช้า
+Code: tr, Language: turkish, Translation: Günaydın
+Code: uk, Language: ukrainian, Translation: Добрий ранок
+Code: ur, Language: urdu, Translation: صبح بخیر
+Code: ug, Language: uyghur, Translation: خەيرلىك ئەتىگەن
+Code: uz, Language: uzbek, Translation: Xayrli tong
+Code: vi, Language: vietnamese, Translation: Chào buổi sáng
+Code: cy, Language: welsh, Translation: Bore Da
+Code: xh, Language: xhosa, Translation: Mholo
+Code: yi, Language: yiddish, Translation: גוט מארגן
+Code: yo, Language: yoruba, Translation: E kaaro
+Code: zu, Language: zulu, Translation: Sawubona
